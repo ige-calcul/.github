@@ -18,7 +18,7 @@ Two unifying concepts motivate the existence of this community work: **open scie
 - 🏗️ Integrate support tools for recurring tasks and needs
 - 👐 Promote diversity, openness and sharing
 
-## To join us, go to the [IGE intranet](https://ige-intranet.osug.fr/)
+## To join us, go to the [IGE intranet](https://ige-intranet.osug.fr/spip.php?rubrique157)
 
 ## And to consult the resources, explore [the documentation](https://github.com/ige-calcul/public-docs) !
 
